@@ -1,4 +1,3 @@
-/* https://github.com/black3r/efireboot  All rights reserved*/
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
